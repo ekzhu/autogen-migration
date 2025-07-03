@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Translate a 0.4.7/0.4.8 team-state JSON into the 0.6.2 layout."""
+"""Translate a 0.4.7 team-state JSON into the 0.6.2 layout."""
 from __future__ import annotations
 import json, pathlib, sys
 from typing import Any, Mapping
